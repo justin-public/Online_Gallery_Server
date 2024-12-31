@@ -1,0 +1,17 @@
+[
+    {
+        "Display ID": "C001D1",
+        "IP": "121.140.54.39",
+        "Display Port": "DISPLAY1"
+    },
+    {
+        "Display ID": "C002D1",
+        "IP": "211.219.144.300",
+        "Display Port": "DISPLAY1"
+    },
+    {
+        "Display ID": "C003D1",
+        "IP": "192.168.10.5",
+        "Display Port": "DISPLAY1"
+    }
+]
